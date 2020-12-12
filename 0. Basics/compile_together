@@ -1,0 +1,2 @@
+# Compile the files into a much faster version SPEED
+python setup.py build_ext --inplace

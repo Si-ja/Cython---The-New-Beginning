@@ -1,0 +1,10 @@
+# Ignore the environment created for python
+env/
+.vscode/
+
+# Any unneded caches
+0. Basics/__pycache__
+
+# Any ipynb checkpoints
+.ipynb_checkpoints
+0. Basics/.ipynb_checkpoints
